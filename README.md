@@ -10,6 +10,10 @@
 
 With an objective to cater the needs of PhoneNow, a Call centre that wants to gain insights into their data, I have created a dashboard addressing the Call centre trends. And also considering the inputs from the Call centre manager, I have further included key perforamce indicators and metrics reflecting the performance of the Call centre and its agents. (This Power BI dashboard that I have created here was my proposal to the problem statetment offered by PWC as part of their virtual internship program)
 
+## PhoneNow performance dashboard
+
+
+
 ## Dataset
 
 The dataset used in this project contains information about the performance of the Call centre and its agents in terms of customer satisfaction. The data is collected by PhoneNow from their internal repositories.
