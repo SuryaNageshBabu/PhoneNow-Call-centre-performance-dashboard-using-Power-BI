@@ -40,7 +40,11 @@ The dataset used in this project contains information about the performance of t
 - Dan has the highest customer satisfaction ratings amongst all the other agents.
 - Conversly it can further be observed that Joe has taken more time in average to answer the customer queries. Further analysis on this aspect could help the call centre to 
   re-access the strategy to interact with the customers.
-- Average speed of answer per customer issue is around 54.15 seconds, 
+- Average speed of answer per customer issue is around 54.15 seconds.
+
+## Get in touch
+
+Feel free to share your feedback. You can reachout to me through [Linkedin]("www.linkedin.com/in/suryanageshbabu")
 
 
 
