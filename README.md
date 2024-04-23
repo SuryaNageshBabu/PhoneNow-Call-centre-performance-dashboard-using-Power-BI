@@ -12,6 +12,8 @@ With an objective to cater the needs of PhoneNow, a Call centre that wants to ga
 
 ## PhoneNow performance dashboard
 
+![PhoneNow performance dashboard](https://github.com/SuryaNageshBabu/Surya_Data_Analyst_Portfolio/blob/main/Screenshot%202024-04-23%20114012.png)
+
 
 
 ## Dataset
