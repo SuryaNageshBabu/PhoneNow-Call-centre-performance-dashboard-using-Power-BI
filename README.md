@@ -44,7 +44,7 @@ The dataset used in this project contains information about the performance of t
 
 ## Get in touch
 
-Feel free to share your feedback. You can reachout to me through [Linkedin]("www.linkedin.com/in/suryanageshbabu")
+Feel free to share your feedback. You can reachout to me through [Linkedin](https://www.linkedin.com/in/suryanageshbabu/)
 
 
 
